@@ -1,11 +1,11 @@
-title: 林德熙
-description: Windows 10 App Developer
+title: 魏媛
+description: 大数据开发架构师
 author: lindexi
-post_author: 林德熙
+post_author: 魏媛
 logo: /img/avatar.png
-github: https://github.com/lindexi
-about: Windows 10 App Developer
-mail: "lindexi_gd@outlook.com"
+github: https://github.com/yuanwei1
+about: 大数据开发架构师
+mail: "2523925903@qq.com"
 
 baseurl: ""
 url: "yuanwei1.github.io"
@@ -47,12 +47,12 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "林德熙"
+      author: "魏媛"
       permalink: "/post/:title.html"
   - scope:
       path: "_articles"
       type: "articles"
     values:
       layout: "post"
-      author: "林德熙"
+      author: "魏媛"
       permalink: "/article/:title.html"
