@@ -15,7 +15,7 @@ allowsearch: false
 analytics:
   google: UA-110214503-1
 disqus:
-  name: lindexi
+  name: Blog
 
 share:
   twitter_username: lindexi_gd
